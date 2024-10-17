@@ -1,0 +1,9 @@
+Time taken to read A and B matrices from file: 0.0000180000 s
+
+Here both h_ut and h_lt have getting some overheads due to the synchronization of atmoicadd
+ it is clear that lower taking more time than upper
+Total time for upper triangular matrix calculations: 0.0029440001 s
+Total time for lower triangular matrix calculations: 0.0046079997 s
+
+Time taken for LU decomposition in total : 0.0003700000 s
+Total time taken in solving system of linear equations for the given size: 0.2886220000 s
